@@ -4,7 +4,3 @@ delay_after_type:
 1
 password:
 Noneedfornow
-zen_username:
-myemail@email.com
-zen_password:
-m3password@123
